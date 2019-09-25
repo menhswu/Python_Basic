@@ -1,0 +1,19 @@
+print('Hello World!')
+
+# 整數值
+a=3
+
+# 浮點數
+b=1.24
+
+# 字串 
+c='hello'
+
+# 布林值 
+d=True
+
+print(a, type(a))
+print(b, type(b))
+print(c, type(c))
+print(d, type(d))
+
